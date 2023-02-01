@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <div
       id="home"
-      className="pt-12 h-[100vh] flex flex-col items-center justify-center relative bg-[rgba(0,0,0,0.0)]"
+      className="pt-12 h-[100vh] flex flex-col items-center justify-center relative bg-[rgba(0,0,0,0.0)] overflow-hidden"
     >
       <div className="w-full max-w-lg">
         <div className="absolute left-15 top-0 w-72 h-72 bg-gblue rounded-full mix-blend-multiply filter blur-xl opacity-20 animate-blob"></div>
@@ -57,16 +57,17 @@ export default function Home() {
             <img src={Map} alt="location" className="w-[30px] lg:w-[50px]" />
             <p>TBA</p>
           </a>
+          <div className="pt-10">
+            <a className="text-white" href="#register">
+              <button className="bg-gyellow mr-3 transition-all ease-in-out duration-500 px-4 py-2 text-lg hover:translate-y-1">
+                Register Now
+              </button>
+            </a>
 
-          <a className="text-white" href="#register">
-            <button className="bg-gyellow mr-3 transition-all ease-in-out duration-500 px-4 py-2 text-lg hover:translate-y-1">
-              Register Now
+            <button className="bg-ggreen text-white transition-all ease-in-out duration-500 px-4 py-2 text-lg hover:translate-y-1">
+              CFP TBA
             </button>
-          </a>
-
-          <button className="bg-ggreen text-white transition-all ease-in-out duration-500 px-4 py-2 text-lg hover:translate-y-1">
-            CFP TBA
-          </button>
+          </div>
         </div>
       </div>
     </div>

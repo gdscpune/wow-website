@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Menu from "./Menu.json";
-import Wow from "../../assets/wow.svg";
+import WowGear from "../../assets/wow_gear.svg";
 import close from "../../assets/close.svg";
 import menu from "../../assets/menu.svg";
 import { HashLink as Link } from "react-router-hash-link";
@@ -25,9 +25,9 @@ export default function Nav() {
         <a href="#home" className="text-inherit" rel="noreferrer">
           <div className="flex items-center justify-start">
             <img
-              src={Wow}
+              src={WowGear}
               alt="WOW Pune 2023"
-              className="w-[20%] sm:w-[20%] inline-block"
+              className="w-[12%] sm:w-[12%] inline-block animate-[spin_4s_linear_infinite]"
             />
             <span className="font-googleBold text-2xl lg:text-4xl ml-2">
               | Pune
