@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Home",
+    "url": "/#home"
+  },
+  {
+    "title": "Why WOW",
+    "url": "/"
+  },
+  {
+    "title": "Speakers",
+    "url": "/#speakers"
+  },
+  {
+    "title": "Sponsors",
+    "url": "/#sponsors"
+  },
+  {
+    "title": "Partners",
+    "url": "/"
+  },
+  {
+    "title": "Agenda",
+    "url": "/"
+  },
+  {
+    "title": "Team",
+    "url": "/"
+  },
+  {
+    "title": "FAQ",
+    "url": "/"
+  },
+  {
+    "title": "Register Now",
+    "url": "/"
+  }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "question":"What is DevFest?",
+        "answer":"DevFest, a Tech Conference led by GDG community with goal to exchange knowledge, networking and learning about Google Dev Technologies."
+    },
+    {
+        "question":"What are GDG's?",
+        "answer":"GDGs are focused on community building and learning about Google’s technologies."
+    },
+    {
+        "question":"What is the venue for Devfest Patna 2022?",
+        "answer":"Sahu Jain Hall, Bihar Chamber of Commerce, Patna"
+    },
+    {
+        "question":"Will the accommodation facility provide to attendees?",
+        "answer":"Unfortunately, we won't be able to support you with with accomodation. Individual attendees has to take care of their accomodation by themselves only."
+    },
+    {
+        "question":"Will I get a certificate for attending?",
+        "answer":"(Yes/no) also many perks awaiting for you."
+    },
+    {
+        "question":"Is there any age limit to register?",
+        "answer":"There is no age limit to attend, Everybody having even a little interest in tech, beginners, professionals, developers and tech enthusiast can attend."
+    },
+    {
+        "question":"If I have any questions, who can I contact?",
+        "answer":"Reach out to us at telegram @gdgpatna"
+    }
+]
