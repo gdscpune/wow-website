@@ -12,10 +12,10 @@ export default function Home() {
       className="pt-12 h-[100vh] flex flex-col items-center justify-center relative bg-[rgba(0,0,0,0.0)]"
     >
       <div className="w-full max-w-lg">
-        <div className="absolute left-15 top-0 w-72 h-72 bg-gblue rounded-full mix-blend-multiply filter blur-xl opacity-30 animate-blob"></div>
-        <div className="absolute top-0 right-5 w-72 h-72 bg-gyellow rounded-full mix-blend-multiply filter blur-xl opacity-30 animate-blob animation-delay-2s"></div>
-        <div className="absolute bottom-0 left-0 w-72 h-72 bg-ggreen rounded-full mix-blend-multiply filter blur-xl opacity-30 animate-blob animation-delay-2s"></div>
-        <div className="absolute bottom-0 right-0 w-72 h-72 bg-gred rounded-full mix-blend-multiply filter blur-xl opacity-30 animate-blob animation-delay-4s"></div>
+        <div className="absolute left-15 top-0 w-72 h-72 bg-gblue rounded-full mix-blend-multiply filter blur-xl opacity-20 animate-blob"></div>
+        <div className="absolute top-0 right-5 w-72 h-72 bg-gyellow rounded-full mix-blend-multiply filter blur-xl opacity-20 animate-blob animation-delay-2s"></div>
+        <div className="absolute bottom-0 left-0 w-72 h-72 bg-ggreen rounded-full mix-blend-multiply filter blur-xl opacity-20 animate-blob animation-delay-2s"></div>
+        <div className="absolute bottom-0 right-0 w-72 h-72 bg-gred rounded-full mix-blend-multiply filter blur-xl opacity-20 animate-blob animation-delay-4s"></div>
       </div>
       <div className="text-center">
         <div className="flex w-[100%] items-center justify-center p-6">
