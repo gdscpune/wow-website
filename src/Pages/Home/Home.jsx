@@ -23,7 +23,7 @@ export default function Home() {
         </div>
         <div className="flex w-[100%] items-center justify-center p-5 pt-0">
           <div>
-            <h1 className="text-xl lg:text-3xl whitespace-nowrap font-semibold">
+            <h1 className="text-xl lg:text-3xl whitespace-nowrap">
               Google Developer Student Clubs
             </h1>
             <p className="text-[18px] lg:text-3xl">Pune</p>
@@ -36,7 +36,7 @@ export default function Home() {
             alt="WOW Pune 2023"
             className="w-[50%] lg:w-[450px] inline-block"
           />
-          <span className="font-googleBold text-2xl lg:text-8xl ml-2 whitespace-nowrap">
+          <span className="text-2xl lg:text-8xl ml-2 whitespace-nowrap">
             | Pune
           </span>
         </div>

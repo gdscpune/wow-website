@@ -8,7 +8,7 @@ module.exports = {
         secondary: "#0f9d58",
       },
       fontFamily: {
-        google: ["google", "sans-serif"],
+        google: ["google"],
       },
     },
     screens: {
@@ -20,17 +20,6 @@ module.exports = {
       lg: "1200px",
       xl: "1700px",
     },
-    fontWeight: {
-      thin: '100',
-      extralight: '200',
-      light: '300',
-      normal: '400',
-      medium: '500',
-      semibold: '600',
-      bold: '700',
-      extrabold: '800',
-      black: '900',
-    }
   },
   plugins: [],
 };

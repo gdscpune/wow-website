@@ -12,37 +12,39 @@ const Perks = () => {
 
       <div className="md:flex p-5">
         <div className="container flex justify-center p-0.5 my-4 mx-4">
-          <div className="content p-2">
-            <p className="text-2xl font-semibold">💻Technical content</p>
+          <div className="content p-2 pb-8">
+            <p className="text-2xl">💻Technical content</p>
             <br />
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-            nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+              incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+              nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
           </div>
         </div>
         <div className="container flex justify-center p-0.5 my-4 mx-4">
-          <div className="content p-2">
-            <p className="text-2xl font-semibold">🛠️Workshops & Codelabs</p>
-            <br />Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-            nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-          </div>
-        </div>
-        <div className="container flex justify-center p-0.5 my-4 mx-4">
-          <div className="content p-2">
-            <p className="text-2xl font-semibold">🌐Networking</p>
+          <div className="content p-2 pb-8">
+            <p className="text-2xl">🛠️Workshops & Codelabs</p>
             <br />
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-            nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+              incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+              nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
           </div>
         </div>
         <div className="container flex justify-center p-0.5 my-4 mx-4">
-          <div className="content p-2">
-            <p className="text-2xl font-semibold">🍕Swags & Refreshments</p>
-            <br />Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-            nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          <div className="content p-2 pb-8">
+            <p className="text-2xl">🌐Networking</p>
+            <br />
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+              incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+              nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          </div>
+        </div>
+        <div className="container flex justify-center p-0.5 my-4 mx-4">
+          <div className="content p-2 pb-8">
+            <p className="text-2xl">🍕Swags & Refreshments</p>
+            <br />
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+              incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+              nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
           </div>
         </div>
       </div>

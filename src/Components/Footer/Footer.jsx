@@ -15,7 +15,7 @@ export default function Footer() {
           backdropFilter: "blur(5px)",
           transition: "ease .8s",
         }}
-        className="w-full text-inherit font-poppins px-2 py-2 sticky top-0 flex lg:flex-row flex-col justify-between items-center navbar my-0"
+        className="w-full text-inherit px-2 py-2 sticky top-0 flex lg:flex-row flex-col justify-between items-center navbar my-0"
       >
         <div className="flex ml-2 items-center justify-start">
           <img src={gdscpune} alt="GDSC Pune" className="w-[60px]" />

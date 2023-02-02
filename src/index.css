@@ -4,29 +4,13 @@
 
 @font-face {
   font-family: "google";
-  src: url("./assets/fonts/GoogleSans-Regular.woff") format('woff');
+  src: url("/fonts/GoogleSans-Regular.woff2") format('woff2');
   font-display: swap;
-}
-
-@font-face {
-  font-family: "google";
-  src: url("./assets/fonts/GoogleSans-Medium.woff") format('woff');
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "google";
-  src: url("./assets/fonts/GoogleSans-Bold.woff") format('woff');
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "google";
-  src: url("./assets/fonts/GoogleSans-Italic.woff") format('woff');
-  font-display: swap;
+  font-style: normal;
 }
 
 :root {
+  font-family: 'google';
   font-size: 16px;
   line-height: 24px;
 

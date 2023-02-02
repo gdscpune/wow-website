@@ -19,7 +19,7 @@ export default function WhyWoW() {
 
       <div className="md:flex p-3 pr-0">
         <div className="flex place-items-center justify-center p-3 my-4 mx-2 text-lg">
-          <p className="font-semibold">
+          <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
             incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
             nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
