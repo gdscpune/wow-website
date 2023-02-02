@@ -1,6 +1,5 @@
 import React from "react";
 import "./home.css";
-import GDSC from "../../assets/GDSC.png";
 import gdscpune from "../../assets/gdscpune.png";
 import Wow from "../../assets/wow.svg";
 import Calender from "../../assets/Calender.svg";

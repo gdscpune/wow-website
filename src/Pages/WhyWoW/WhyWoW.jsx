@@ -1,6 +1,7 @@
 import React from "react";
 import "./whywow.css";
 import mapMH from "../../assets/map_mh.svg"
+import Wow from "../../assets/wow.svg";
 import Perks from "./Perks";
 
 export default function WhyWoW() {
@@ -8,7 +9,11 @@ export default function WhyWoW() {
     <div id="why-WoW" className="pt-12 m-0.5 bg-gray-100">
       <div className="m-4">
         <h3 className="font-bold text-3xl mx-5 text-center">
-          What is WoW?
+          What is <img
+            src={Wow}
+            alt="WOW Pune 2023"
+            className="w-[30%] lg:w-[8%] sm:w-[12%] inline-block"
+          /> ?
         </h3>
       </div>
 
