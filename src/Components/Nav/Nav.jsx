@@ -17,8 +17,8 @@ export default function Nav() {
   return (
     <>
       <div
-        className={`w-full fixed top-0 flex items-center justify-between p-2 border-b-[1px] z-50 ${scroll
-          ? "bg-[rgba(192,192,192,0.3)] backdrop-blur-[5px]"
+        className={`w-full fixed top-0 transition duration-250 ease-in flex items-center justify-between p-2 border-b-[1px] z-50 ${scroll
+          ? "bg-[rgba(192,192,192,0.3)] backdrop-blur-[10px]"
           : "bg-transparent backdrop-blur-0"
           }`}
       >
@@ -59,7 +59,7 @@ export default function Nav() {
           onClick={() => setToggle(!toggle)}
           className="lg:hidden flex justify-end items-center"
         >
-          <img src={toggle ? menu : close} className="animate-bounce w-8" />
+          <img src={toggle ? menu : close} className="w-8" />
           <div
             className={`fixed right-1 top-[3rem] p-2 rounded bg-[rgba(0,0,0,0.6)] backdrop-blur-[4px] z-50 ${toggle ? "hidden" : "flex"
               }`}
