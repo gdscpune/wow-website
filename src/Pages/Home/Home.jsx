@@ -13,11 +13,11 @@ export default function Home() {
     >
       <div className="w-full max-w-lg">
         <div className="absolute left-15 top-0 w-72 h-72 bg-gblue rounded-full mix-blend-multiply filter blur-xl opacity-20 animate-blob"></div>
-        <div className="absolute top-0 right-5 w-72 h-72 bg-gyellow rounded-full mix-blend-multiply filter blur-xl opacity-20 animate-blob animation-delay-2s"></div>
-        <div className="absolute bottom-0 left-0 w-72 h-72 bg-ggreen rounded-full mix-blend-multiply filter blur-xl opacity-20 animate-blob animation-delay-2s"></div>
-        <div className="absolute bottom-0 right-0 w-72 h-72 bg-gred rounded-full mix-blend-multiply filter blur-xl opacity-20 animate-blob animation-delay-4s"></div>
+        <div className="absolute top-0 right-5 w-72 h-72 bg-gred rounded-full mix-blend-multiply filter blur-xl opacity-20 animate-blob animation-delay-2s"></div>
+        <div className="absolute bottom-0 left-0 w-72 h-72 bg-gyellow rounded-full mix-blend-multiply filter blur-xl opacity-20 animate-blob animation-delay-2s"></div>
+        <div className="absolute bottom-1 right-0 w-72 h-72 bg-ggreen rounded-full mix-blend-multiply filter blur-xl opacity-20 animate-blob animation-delay-4s"></div>
       </div>
-      <div className="text-center">
+      <div className="text-center opacity-100">
         <div className="flex w-[100%] items-center justify-center p-6">
           <div className="w-[25%] lg:w-[5%]">
             <img src={GDSC} alt="Google Developer Student Clubs Pune" />
@@ -34,7 +34,7 @@ export default function Home() {
           <img
             src={Wow}
             alt="WOW Pune 2023"
-            className="w-[50%] lg:w-[500px] inline-block"
+            className="w-[50%] lg:w-[450px] inline-block"
           />
           <span className="font-googleBold text-2xl lg:text-8xl ml-2 whitespace-nowrap">
             | Pune

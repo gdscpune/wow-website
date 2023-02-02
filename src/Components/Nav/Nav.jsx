@@ -57,7 +57,7 @@ export default function Nav() {
         {/* Responsive Nav for Mobiles */}
         <div
           onClick={() => setToggle(!toggle)}
-          className="lg:hidden flex fles-1 justify-end items-center"
+          className="lg:hidden flex justify-end items-center"
         >
           <img src={toggle ? menu : close} className="animate-bounce w-8" />
           <div
