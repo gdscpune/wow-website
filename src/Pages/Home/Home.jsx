@@ -1,6 +1,7 @@
 import React from "react";
 import "./home.css";
 import GDSC from "../../assets/GDSC.png";
+import gdscpune from "../../assets/gdscpune.png";
 import Wow from "../../assets/wow.svg";
 import Calender from "../../assets/Calender.svg";
 import Map from "../../assets/Map.svg";
@@ -18,15 +19,15 @@ export default function Home() {
         <div className="absolute bottom-1 right-0 w-72 h-72 bg-ggreen rounded-full mix-blend-multiply filter blur-xl opacity-20 animate-blob animation-delay-4s"></div>
       </div>
       <div className="text-center opacity-100">
-        <div className="flex w-[100%] items-center justify-center p-6">
-          <div className="w-[25%] lg:w-[5%]">
-            <img src={GDSC} alt="Google Developer Student Clubs Pune" />
-          </div>
+        <div className="flex top-0 left-0 w-full md:items-center justify-center">
+          <img src={gdscpune} className="w-[15%]" alt="Google Developer Student Clubs Pune" />
+        </div>
+        <div className="flex w-[100%] items-center justify-center p-5 pt-0">
           <div>
-            <h1 className="text-xl lg:text-3xl whitespace-nowrap">
+            <h1 className="text-xl lg:text-3xl whitespace-nowrap font-semibold">
               Google Developer Student Clubs
             </h1>
-            <p className="text-[18px] lg:text-2xl text-start">Pune</p>
+            <p className="text-[18px] lg:text-3xl">Pune</p>
           </div>
         </div>
         <p className="text-center text-xl lg:text-2xl">Presents</p>
