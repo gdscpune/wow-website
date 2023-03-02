@@ -5,6 +5,7 @@ import Home from "./Pages/Home/Home";
 import SponsorsPage from "./Pages/Partners/SponsorsPage";
 import Speakers from "./Pages/Speakers/Speakers";
 import Team from "./Pages/Team/Team";
+import Technologies from "./Pages/Technologies/Technologies";
 import WhyWoW from "./Pages/WhyWoW/WhyWoW";
 
 export default function HomePage() {
@@ -12,6 +13,7 @@ export default function HomePage() {
     <>
       <Home />
       <WhyWoW />
+      <Technologies/>
       {/*<Speakers />
       <SponsorsPage />
       <Team />
