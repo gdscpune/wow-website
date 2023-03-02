@@ -1,5 +1,5 @@
 import React from 'react'
-import Tech from "./tech.json";
+
 
 
 
