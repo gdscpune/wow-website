@@ -3,11 +3,12 @@
     justify-content: flex-start;
     align-items: stretch;
     box-shadow: 2px 4px 20px 1px #3131310d;
+   
     background: linear-gradient(180deg,
             #db4437 0%,
             #4285f4 32.81%,
             #00ab47 66.15%,
-            #ffba00 100%);
+            #ffba00 100%); 
     padding: 0.1px;
     border-radius: 5px;
 }

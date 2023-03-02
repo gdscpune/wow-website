@@ -46,7 +46,7 @@ export default function Nav() {
                 to={item.url}
                 smooth
                 className={`min-w-full text-inherit whitespace-nowrap ${id === 0 ? "bg-primary" : ""
-                  } px-4 py-2 rounded-full hover:bg-secondary`}
+                  } px-4 py-2 rounded-full hover:bg-secondary hover:text-white`}
               >
                 {item.title}
               </Link>
@@ -79,7 +79,7 @@ export default function Nav() {
                     to={item.url}
                     smooth
                     className={`min-w-full text-white whitespace-nowrap ${id === 0 ? "bg-primary" : ""
-                      } px-4 py-2 rounded-full hover:bg-secondary`}
+                      } px-4 py-2 rounded-full hover:bg-secondary hover:text-white`}
                   >
                     {item.title}
                   </Link>
