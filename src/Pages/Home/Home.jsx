@@ -65,7 +65,7 @@ export default function Home() {
             </a>
 
             <button className="bg-ggreen text-white transition-all ease-in-out duration-500 px-4 py-2 text-lg hover:translate-y-1">
-              CFP TBA
+              <a className="text-white" href="https://forms.gle/8XTH7vGBMmT1SsHh6" target="_blank">CFP Live!</a>
             </button>
           </div>
         </div>
