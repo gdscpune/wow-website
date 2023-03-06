@@ -1,4 +1,4 @@
-.cta {
+.cta_speaker {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -25,7 +25,7 @@
 
 .cta_btn button {
     padding: 0.5rem 2rem;
-    background: #000000;
+    background: #FFFFFF;
     border-radius: 40px;
     outline: none;
     border: none;
@@ -37,7 +37,7 @@
 }
 
 @media screen and (max-width: 650px) {
-    .cta {
+    .cta_speaker {
         flex-direction: column;
     }
 
@@ -47,7 +47,7 @@
 }
 
 @media screen and (max-width: 550px) {
-    .cta {
+    .cta_speaker {
         margin: 4rem 2rem;
     }
 

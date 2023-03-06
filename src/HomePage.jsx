@@ -7,12 +7,14 @@ import Speakers from "./Pages/Speakers/Speakers";
 import Team from "./Pages/Team/Team";
 import Technologies from "./Pages/Technologies/Technologies";
 import WhyWoW from "./Pages/WhyWoW/WhyWoW";
-import CTAspeaker from "./Components/CTA-speaker/CTA";
+import CTAspeaker from "./Components/CTA-speaker/CTAspeaker";
+import CTAsponsor from "./Components/CTA-sponsor/CTAsponsor";
 
 export default function HomePage() {
   return (
     <>
       <Home />
+      <CTAsponsor />
       <CTAspeaker />
       <WhyWoW />
       <Technologies />
