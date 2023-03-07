@@ -20,14 +20,12 @@ export default function WhyWoW() {
       <div className="md:flex p-3 pr-0">
         <div className="flex place-items-center justify-center p-3 my-4 mx-2 text-lg">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-            nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            Duis aute irure dolor
+            GDSC (Wonder Of Wonders), aka GDSC WOW is a collaborative event of 30+ GDSCs across Pune,
+            who have joined hands to bring together students, developers, and communities under the same roof.
             <br />
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-            nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            This is a student centric event depicting range of technologies, an opportunity to network with
+            tech experts and attain knowledge about latest developments in the field of technology through hands-on
+            activities, lightning talks and much more!
           </p>
         </div>
         <div className="flex justify-center">

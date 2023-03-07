@@ -44,9 +44,9 @@ export default function Home() {
           <h2>Pune's most awaited developer conference</h2>
           <div className="flex items-center justify-center text-[14px] lg:text-2xl">
             <img src={Calender} alt="date" className="w-[30px] lg:w-[50px]" />
-            <p>TBA</p>
+            <p>16th April, 2023</p>
             <span className="w-[20px] aspect-square bg-[rgb(128,128,128)] m-2 mx-4 rounded-xl"></span>
-            <p>TBA</p>
+            <p>9 AM Onwards</p>
           </div>
 
           <a
@@ -55,7 +55,7 @@ export default function Home() {
             className="flex justify-center items-center text-[14px] lg:text-2xl text-inherit"
           >
             <img src={Map} alt="location" className="w-[30px] lg:w-[50px]" />
-            <p>TBA</p>
+            <p>Announcing soon!</p>
           </a>
           <div className="pt-10">
             <a className="text-white" href="#register">
