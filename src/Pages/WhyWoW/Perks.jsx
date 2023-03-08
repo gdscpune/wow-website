@@ -18,6 +18,9 @@ const Perks = () => {
         <div className="p-4 m-4 justify-center h-100 w-100 items-center bg-gradient-to-r from-red-600  to-orange-400 rounded-lg shadow-lg">
           <li className="text-3xl text-slate-200 p-2 m-2 pb-5 list-none text-center">35+<br />Speakers</li>
         </div>
+        <div className="p-4 m-4 justify-center h-100 w-100 items-center bg-gradient-to-r from-red-600  to-orange-400 rounded-lg shadow-lg">
+          <li className="text-3xl text-slate-200 p-2 m-2 pb-5 list-none text-center">30+<br />Colleges</li>
+        </div>
       </div>
 
 
