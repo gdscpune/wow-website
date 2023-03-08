@@ -9,10 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "animate.css": "^4.1.1",
     "react": "^18.2.0",
     "react-carousel": "^4.3.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.7.1",
+    "react-on-scroll-animation": "^1.0.0",
     "react-router-dom": "^6.4.3",
     "react-router-hash-link": "^2.4.3",
     "reactstrap": "^9.1.6"
