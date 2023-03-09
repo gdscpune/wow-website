@@ -9,6 +9,9 @@ const CTAsponsor = () => {
                 <h3>Call for Sponsors is live!</h3>
             </div>
             <div className="cta_btn">
+                <button type="button"><a href="https://drive.google.com/file/d/1WwlgMLx54GHK0fz9Ug1SJW9ldAu0HOYT/view?usp=share_link" target="_blank">Brochure</a></button>
+            </div>
+            <div className="cta_btn">
                 <button type="button"><a href="mailto:sponsorship@gdscpune.tech" target="_blank">Mail us</a></button>
             </div>
         </div>
