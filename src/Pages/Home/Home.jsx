@@ -4,6 +4,8 @@ import gdscpune from "../../assets/gdscpune.png";
 import Wow from "../../assets/wow.svg";
 import Calender from "../../assets/Calender.svg";
 import Map from "../../assets/Map.svg";
+import Contactus from "./Components/Contact_Us/Contactus";
+
 
 export default function Home() {
   return (
@@ -68,6 +70,7 @@ export default function Home() {
             <button className="bg-ggreen text-white transition-all ease-in-out duration-500 px-4 py-2 text-lg hover:translate-y-1">
               <a className="text-white" href="https://forms.gle/8XTH7vGBMmT1SsHh6" target="_blank">Call for Speakers</a>
             </button>
+            <Contactus/>
           </div>
         </div>
       </div>
