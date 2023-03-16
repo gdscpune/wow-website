@@ -15,7 +15,7 @@ export default function Faq() {
             open={id === 0 ? true : false}
           >
             <summary className="flex cursor-pointer items-center justify-between">
-              <h2 className="text-lg font-medium text-white">
+              <h2 className="text-lg font-medium text-black">
                 {item.question}
               </h2>
               <span className="ml-1.5 flex-shrink-0 rounded-full bg-transparent p-1.5 text-primary sm:p-3">
@@ -33,7 +33,7 @@ export default function Faq() {
                 </svg>
               </span>
             </summary>
-            <p className="leading-relaxed text-white mt-1">{item.answer}</p>
+            <p className="leading-relaxed text-black mt-1">{item.answer}</p>
           </details>
         ))}
       </div>
