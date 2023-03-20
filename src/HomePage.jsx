@@ -18,11 +18,11 @@ export default function HomePage() {
       <CTAspeaker />
       <WhyWoW />
       <Technologies />
-      {/*<Speakers />
+      <Speakers />
       <SponsorsPage />
       <Team />
-      <Register />
-  <Faq />*/}
+      {/* <Register /> */}
+      <Faq />
     </>
   );
 }
