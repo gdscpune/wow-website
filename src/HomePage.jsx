@@ -3,6 +3,7 @@ import Register from "./Components/Register/Register";
 import Faq from "./Pages/Faq/Faq";
 import Home from "./Pages/Home/Home";
 import SponsorsPage from "./Pages/Partners/SponsorsPage";
+import CommunityPage from "./Pages/Community_Partners_New/CommunityPage";
 import Speakers from "./Pages/Speakers/Speakers";
 import Team from "./Pages/Team/Team";
 import Technologies from "./Pages/Technologies/Technologies";
@@ -20,6 +21,7 @@ export default function HomePage() {
       <Technologies />
       {/* <Speakers />
       <SponsorsPage />
+      <CommunityPage />
       <Team />
       <Register />
       <Faq /> */}
