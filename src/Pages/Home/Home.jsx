@@ -1,7 +1,7 @@
 import React from "react";
 import "./home.css";
 import gdscpune from "../../assets/gdscpune.png";
-import Wow from "../../assets/wow.svg";
+import Wow from "../../assets/wow_gear_pune.svg";
 import Calender from "../../assets/Calender.svg";
 import Map from "../../assets/Map.svg";
 
