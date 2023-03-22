@@ -64,7 +64,7 @@ export default function Home() {
             
             <a className="text-white" href="https://konfhub.com/checkout/gdscwowpune?ticketId=7558">
               <button className="bg-gyellow mr-3 transition-all ease-in-out duration-500 px-4 py-2 text-lg hover:translate-y-1">
-                Buy Early Bird Ticket!
+              👇🏻👇🏻 Buy Early Bird Ticket 👇🏻👇🏻
               </button>
             </a> 
             
