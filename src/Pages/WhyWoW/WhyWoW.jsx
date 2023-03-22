@@ -1,7 +1,7 @@
 import React from "react";
 import "./whywow.css";
 import mapMH from "../../assets/map_mh.svg"
-import Wow from "../../assets/wow.svg";
+import Wow from "../../assets/wow_gear_pune.svg";
 import Perks from "./Perks";
 
 export default function WhyWoW() {
