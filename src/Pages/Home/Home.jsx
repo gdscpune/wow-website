@@ -55,7 +55,7 @@ export default function Home() {
             className="flex justify-center items-center text-[14px] lg:text-2xl text-inherit"
           >
             <img src={Calender} alt="date" className="w-[30px] lg:w-[50px]" />
-            <p>16/03/2023</p>
+            <p>16/04/2023</p>
             <img src={Map} alt="location" className="w-[30px] lg:w-[50px]" />
             <p>MIT WPU, Pune</p>
           </a>
