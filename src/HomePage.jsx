@@ -10,11 +10,13 @@ import Technologies from "./Pages/Technologies/Technologies";
 import WhyWoW from "./Pages/WhyWoW/WhyWoW";
 import CTAspeaker from "./Components/CTA-speaker/CTAspeaker";
 import CTAsponsor from "./Components/CTA-sponsor/CTAsponsor";
+import CTAearlybird from "./Components/CTA-EarlyBird/CTA-speaker/ctaearlybird";
 
 export default function HomePage() {
   return (
     <>
       <Home />
+      <CTAearlybird/>
       <CTAsponsor />
       <CTAspeaker />
       <WhyWoW />

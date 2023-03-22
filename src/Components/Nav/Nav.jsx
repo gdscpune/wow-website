@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Menu from "./Menu.json";
 import WowGear from "../../assets/wow_gear.svg";
+import WowGearPune from "../../assets/wow_gear_pune.svg";
 import close from "../../assets/close.svg";
 import menu from "../../assets/menu.svg";
 import { HashLink as Link } from "react-router-hash-link";
