@@ -50,7 +50,7 @@ export default function Home() {
           </div>
 
           <a
-            href="https://goo.gl/maps/YfNRv8if2RX164Uh6"
+            href="#"
             target="_blank"
             className="flex justify-center items-center text-[14px] lg:text-2xl text-inherit"
           >
