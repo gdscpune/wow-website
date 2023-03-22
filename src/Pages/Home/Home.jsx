@@ -59,15 +59,19 @@ export default function Home() {
             <p> Venue and Date Revealing Soon !</p>
           </a>
           <div className="pt-10">
-            {/* <a className="text-white" href="#register">
+            {
+            
+            <a className="text-white" href="https://konfhub.com/checkout/gdscwowpune?ticketId=7558">
               <button className="bg-gyellow mr-3 transition-all ease-in-out duration-500 px-4 py-2 text-lg hover:translate-y-1">
-                Register Now
+                Buy Early Bird Ticket!
               </button>
-            </a> */}
+            </a> 
+            
+            }
 
-            <button className="bg-ggreen text-white transition-all ease-in-out duration-500 px-4 py-2 text-lg hover:translate-y-1">
+            {/* <button className="bg-ggreen text-white transition-all ease-in-out duration-500 px-4 py-2 text-lg hover:translate-y-1">
               <a className="text-white" href="https://forms.gle/8XTH7vGBMmT1SsHh6" target="_blank">Call for Speakers</a>
-            </button>
+            </button> */}
           </div>
         </div>
       </div>

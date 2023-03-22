@@ -23,8 +23,8 @@ export default function HomePage() {
       <SponsorsPage />
       <CommunityPage />
       <Team />
-      <Register />
-      <Faq /> */}
+      <Register /> */}
+      <Faq />
     </>
   );
 }
