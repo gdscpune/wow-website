@@ -1,0 +1,17 @@
+//menu.json
+{
+    "title": "Speakers",
+    "url": "/#speakers"
+  },
+  {
+    "title": "Sponsors",
+    "url": "/#sponsors"
+  },
+  {
+    "title": "Partners",
+    "url": "/#communitypartners"
+  },
+  {
+    "title": "Agenda",
+    "url": "/"
+  },
