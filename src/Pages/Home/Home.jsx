@@ -50,7 +50,7 @@ export default function Home() {
           </div>
 
           <a
-            href="#"
+            href="https://goo.gl/maps/wPfNwVnqftyk2VHA6"
             target="_blank"
             className="flex justify-center items-center text-[14px] lg:text-2xl text-inherit"
           >
@@ -61,13 +61,9 @@ export default function Home() {
           </a>
           <div className="pt-10">
             {
-            
-            <a className="text-white" href="https://konfhub.com/checkout/gdscwowpune?ticketId=7558">
-              <button className="bg-gyellow mr-3 transition-all ease-in-out duration-500 px-4 py-2 text-lg hover:translate-y-1">
+              <span className="text-2xl lg:text-2xl ml-2 whitespace-nowrap">
               👇🏻👇🏻 Early Bird Sold Out! Join Waitlist. 👇🏻👇🏻
-              </button>
-            </a> 
-            
+            </span>
             }
 
             {/* <button className="bg-ggreen text-white transition-all ease-in-out duration-500 px-4 py-2 text-lg hover:translate-y-1">
