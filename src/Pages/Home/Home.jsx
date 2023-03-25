@@ -61,7 +61,7 @@ export default function Home() {
           </a>
           <div className="pt-10">
             {
-              <span className="text-2xl lg:text-2xl ml-2 whitespace-nowrap">
+              <span className="text-1xl lg:text-2xl ml-2 whitespace-nowrap">
               👇🏻👇🏻 Early Bird Sold Out! Join Waitlist. 👇🏻👇🏻
             </span>
             }
