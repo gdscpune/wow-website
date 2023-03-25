@@ -23,6 +23,12 @@ export default function Footer() {
             Google Developer Student Clubs . Pune
           </h1>
         </div>
+        <div>
+          <a href="https://gdscpune.notion.site/Code-of-Conduct-Terms-Conditions-Community-Guidelines-48998a2cae33467e976bbbdac32b6df8" target="_blank">
+          <span className="mr-2">Community Guidelines</span>
+          </a>
+          
+        </div>
         <div className="lg:w-1/4 w-full flex lg:flex-row flex-col items-center">
           <span className="mr-2">Connect with us</span>
           <SNS />
