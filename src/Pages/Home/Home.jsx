@@ -11,12 +11,12 @@ export default function Home() {
       id="home"
       className="pt-12 h-[100vh] flex flex-col items-center justify-center relative bg-[rgba(0,0,0,0.0)] overflow-hidden"
     >
-      {/* <div className="w-full max-w-lg">
+      <div className="w-full max-w-lg">
         <div className="absolute left-15 top-0 w-72 h-72 bg-gblue rounded-full mix-blend-multiply filter blur-xl opacity-20 animate-blob"></div>
         <div className="absolute top-0 right-5 w-72 h-72 bg-gred rounded-full mix-blend-multiply filter blur-xl opacity-20 animate-blob animation-delay-2s"></div>
         <div className="absolute bottom-0 left-0 w-72 h-72 bg-gyellow rounded-full mix-blend-multiply filter blur-xl opacity-20 animate-blob animation-delay-2s"></div>
         <div className="absolute bottom-1 right-0 w-72 h-72 bg-ggreen rounded-full mix-blend-multiply filter blur-xl opacity-20 animate-blob animation-delay-4s"></div>
-      </div> */}
+      </div>
       <div className="text-center opacity-100">
         <div className="flex top-0 left-0 w-full md:items-center justify-center">
           <img src={gdscpune} className="w-[15%]" alt="Google Developer Student Clubs Pune" />
@@ -62,13 +62,19 @@ export default function Home() {
           <div className="pt-10">
             {
 
-            <a className="text-white" href="https://konfhub.com/checkout/gdscwowpune?ticketId=7572">
-            <button className="bg-gyellow mr-3 transition-all ease-in-out duration-500 px-4 py-2 text-lg hover:translate-y-1">
+          //   <a className="text-white" href="https://konfhub.com/checkout/gdscwowpune?ticketId=7572">
+          //   <button className="bg-gyellow mr-3 transition-all ease-in-out duration-500 px-4 py-2 text-lg hover:translate-y-1">
             
-            <span className="text-1xl lg:text-2xl whitespace-nowrap">🎟️ Buy Early Bird Ticket!</span>
+          //   <span className="text-1xl lg:text-2xl whitespace-nowrap">🎟️ Buy Early Bird Ticket!</span>
             
-            </button>
-          </a> 
+          //   </button>
+          // </a>
+          
+          <span className="text-1xl lg:text-2xl ml-2 whitespace-nowrap">
+              🎟️Phase 2 | Early Bird Tickets Sold Out🎟️
+            </span>
+          
+
             }
 
             {/* <button className="bg-ggreen text-white transition-all ease-in-out duration-500 px-4 py-2 text-lg hover:translate-y-1">
