@@ -6,6 +6,7 @@ module.exports = {
       colors: {
         primary: "#4285f4",
         secondary: "#0f9d58",
+        // communitybackground: "",
       },
       fontFamily: {
         google: ["google"],

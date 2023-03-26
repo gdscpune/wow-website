@@ -22,10 +22,10 @@ export default function HomePage() {
       <WhyWoW />
       <Technologies />
       {/* <Speakers />
-      <SponsorsPage />
+      <SponsorsPage /> */}
       <CommunityPage />
-      <Team />
-      <Register /> */}
+      {/* <Team /> */}
+      {/* <Register /> */}
       <Faq />
     </>
   );
