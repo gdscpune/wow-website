@@ -38,7 +38,7 @@ export default function Technologies() {
   ];
   return (
     <div className="flex flex-col items-center justify-center text-center">
-      <div className="mb-12 mt-2">
+      <div className="mb-12 mt-12s">
         <p className="google-font text-4xl text-dark ">Technologies to be focused</p>
       </div >
       {Techs.reduce((rows, key, index) => (index % 4 == 0 ? rows.push([key]) : rows[rows.length - 1].push(key)) && rows, []).map((row, rowIndex) => (
