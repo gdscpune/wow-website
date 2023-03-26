@@ -1,29 +1,31 @@
 import {
   googleCrowdsource,
-  googleDevelopers,
-  JetBrains,
+  gdgpune,
+  flutterpune,
+  wtmpune,
+  gdgcloudpune,
   Teamology,
 } from "../../assets/SponsorsLogo";
 
 export const CPartners = [
   {
-    name: "Google Developers",
-    logo: googleDevelopers,
-    url: "https://developers.google.com/",
+    name: "GDG Pune",
+    logo: gdgpune,
+    url: "https://gdg.community.dev/gdg-pune/",
   },
   {
-    name: "Teamology",
-    logo: Teamology,
-    url: "https://theteamology.com/",
+    name: "GDG Cloud Pune",
+    logo: gdgcloudpune,
+    url: "https://gdg.community.dev/gdg-cloud-pune/",
   },
   {
-    name: "JetBrains",
-    logo: JetBrains,
-    url: "https://www.jetbrains.com/",
+    name: "Women Techmakers",
+    logo: wtmpune,
+    // url: "https://www.jetbrains.com/",
   },
   {
-    name: "Crowdsource",
-    logo: googleCrowdsource,
-    url: "https://crowdsource.google.com/",
+    name: "Flutter Pune",
+    logo: flutterpune,
+    // url: "https://crowdsource.google.com/",
   },
 ];
