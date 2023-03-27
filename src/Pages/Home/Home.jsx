@@ -71,7 +71,7 @@ export default function Home() {
           // </a>
           
           <span className="text-1xl lg:text-2xl ml-2 whitespace-nowrap">
-              🎟️👇🏻Phase 2 | Early Bird Tickets Sold Out! Join Waitlist.👇🏻🎟️
+              🎟️👇🏻You can join the waitlist for General Access Ticket | Phase 1👇🏻🎟️
             </span>
           
 
