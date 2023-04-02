@@ -6,6 +6,10 @@ import InshaRamin from "./InshaRamin.jpeg";
 import RajanJha from "./RajanJha.jpeg";
 import AyushShekhar from "./AyushShekhar.jpeg";
 import MayankGupta from "./MayankGupta.jpg";
+import VrijrajSingh from "./VrijrajSingh.png";
+import ShreeBhagwat from "./ShreeBhagwat.png";
+import PoojaBhaumik from "./PoojaBhaumik.png";
+import NikitaGandhi from "./NikitaGandhi.jpeg";
 export {
   HarshAskhit,
   AnubhavSharma,
@@ -15,4 +19,8 @@ export {
   MayankGupta,
   RajanJha,
   AyushShekhar,
+  VrijrajSingh,
+  ShreeBhagwat,
+  PoojaBhaumik,
+  NikitaGandhi,
 };

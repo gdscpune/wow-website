@@ -21,8 +21,8 @@ export default function HomePage() {
       <CTAspeaker />
       <WhyWoW />
       <Technologies />
-      {/* <Speakers />
-      <SponsorsPage /> */}
+      <Speakers />
+      {/* <SponsorsPage /> */}
       <CommunityPage />
       {/* <Team /> */}
       {/* <Register /> */}
