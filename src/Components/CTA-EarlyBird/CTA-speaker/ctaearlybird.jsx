@@ -7,7 +7,7 @@ const CTAearlybird = () => {
       <div className="cta_content">
         <h3>Get your General Access Ticket now!</h3>
       </div>
-      <div className="cta_btn transition duration-500 hover:scale-110">
+      <div className="cta_btn transition duration-500 lg:hover:scale-110">
         <button type="button">
           <a href="https://konfhub.com/checkout/gdscwowpune" target="_blank">
             Buy Now!
