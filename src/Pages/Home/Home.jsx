@@ -19,7 +19,11 @@ export default function Home() {
       </div>
       <div className="text-center opacity-100">
         <div className="flex top-0 left-0 w-full md:items-center justify-center">
-          <img src={gdscpune} className="w-[15%]" alt="Google Developer Student Clubs Pune" />
+          <img
+            src={gdscpune}
+            className="w-[15%]"
+            alt="Google Developer Student Clubs Pune"
+          />
         </div>
         <div className="flex w-[100%] items-center justify-center p-5 pt-0">
           <div>
@@ -52,7 +56,7 @@ export default function Home() {
           <a
             href="https://goo.gl/maps/wPfNwVnqftyk2VHA6"
             target="_blank"
-            className="flex justify-center items-center text-[14px] lg:text-2xl text-inherit"
+            className="flex justify-center items-center text-[14px] lg:text-2xl text-inherit mt-2 lg:mt-4"
           >
             <img src={Calender} alt="date" className="w-[30px] lg:w-[50px]" />
             <p>16/04/2023</p>
@@ -61,20 +65,20 @@ export default function Home() {
           </a>
           <div className="pt-10">
             {
+              <a
+                className="text-white"
+                href="https://konfhub.com/checkout/gdscwowpune"
+              >
+                <button className="bg-gyellow mr-3 transition-all ease-in-out duration-500 px-4 py-2 text-lg hover:translate-y-1">
+                  <span className="text-1xl lg:text-2xl whitespace-nowrap">
+                    🎟️Buy General Access Ticket!🎟️
+                  </span>
+                </button>
+              </a>
 
-            <a className="text-white" href="https://konfhub.com/checkout/gdscwowpune">
-            <button className="bg-gyellow mr-3 transition-all ease-in-out duration-500 px-4 py-2 text-lg hover:translate-y-1">
-            
-        <span className="text-1xl lg:text-2xl whitespace-nowrap">🎟️Buy General Access Ticket!🎟️</span>
-            
-            </button>
-          </a>
-          
-          // <span className="text-1xl lg:text-2xl ml-2 whitespace-nowrap">
-          //     🎟️👇🏻You can join the waitlist for General Access Ticket | Phase 1👇🏻🎟️
-          //   </span>
-          
-
+              // <span className="text-1xl lg:text-2xl ml-2 whitespace-nowrap">
+              //     🎟️👇🏻You can join the waitlist for General Access Ticket | Phase 1👇🏻🎟️
+              //   </span>
             }
 
             {/* <button className="bg-ggreen text-white transition-all ease-in-out duration-500 px-4 py-2 text-lg hover:translate-y-1">
