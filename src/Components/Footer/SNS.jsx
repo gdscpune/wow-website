@@ -30,10 +30,10 @@ export default function SNS() {
     },
   ];
   return (
-    <div className="flex text-4xl w-full justify-between">
+    <div className="flex text-4xl w-full justify-between px-8 lg:px-0 mb-2 lg:mb-0">
       {SNS.map((item, id) => (
         <a
-          className="text-inherit hover:text-primary transition-all hover:animate-bounce ml-1"
+          className="text-inherit hover:text-primary transition duration-300 transform hover:-translate-y-1 hover:scale-110 ml-1"
           key={id}
           href={item.url}
           target="_blank"
