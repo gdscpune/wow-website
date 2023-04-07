@@ -12,7 +12,7 @@ function Speaker(props) {
             key={id}
             className="w-full mt-10 md:w-1/2 lg:w-1/4 pl-5 pr-5 mb-20 lg:pl-2 lg:pr-2"
           >
-            <div className="bg-zinc-900 rounded-lg m-h-64 p-2 transform hover:translate-y-2 hover:shadow-xl transition duration-300">
+            <div className="bg-slate-100 rounded-lg m-h-64 p-2 transform hover:translate-y-2 hover:shadow-xl transition duration-300">
               <div className="relative flex justify-center items-center -mt-16 w-48 h-40 mx-auto">
                 <div
                   className="!bg-cover w-full !z-[40] rounded-full"
@@ -27,16 +27,16 @@ function Speaker(props) {
               </div>
               <div className="rounded-lg p-4 mt-4 flex flex-col">
                 <div>
-                  <h5 className="text-white text-3xl font-bold leading-none">
+                  <h5 className="text-3xl font-bold leading-none text-center pb-4">
                     {item.name}
                   </h5>
-                  <span className="text-xl text-gray-400 leading-none">
+                  <span className="text-xl text-slate-600 leading-none">
                     {item.bio}
                   </span>
                 </div>
 
                 <div className="flex justify-center mt-5">
-                  
+
                 </div>
               </div>
             </div>
