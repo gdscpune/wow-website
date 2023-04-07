@@ -5,6 +5,7 @@ import {
   PoojaBhaumik,
   NikitaGandhi,
   YogeshKulkarni,
+  MurariRamuka,
 } from "../../assets/img/speaker";
 const SpeakersList = [
   {
@@ -49,7 +50,14 @@ const SpeakersList = [
     // linkedinUrl: "https://www.linkedin.com/in/aditlal/",
     // twitterUrl: "https://twitter.com/aditlal",
   },
-
+  {
+    name: "Murari Ramuka",
+    bio: "Data Analytics Specialist, Google",
+    image: MurariRamuka,
+    frame: Blue,
+    // linkedinUrl: "https://www.linkedin.com/in/aditlal/",
+    // twitterUrl: "https://twitter.com/aditlal",
+  },
 
 ];
 
