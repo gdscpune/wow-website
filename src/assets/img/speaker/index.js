@@ -10,6 +10,7 @@ import VrijrajSingh from "./VrijrajSingh.png";
 import ShreeBhagwat from "./ShreeBhagwat.png";
 import PoojaBhaumik from "./PoojaBhaumik.png";
 import NikitaGandhi from "./NikitaGandhi.jpeg";
+import YogeshKulkarni from "./YogeshKulkarni.png"
 export {
   HarshAskhit,
   AnubhavSharma,
@@ -23,4 +24,5 @@ export {
   ShreeBhagwat,
   PoojaBhaumik,
   NikitaGandhi,
+  YogeshKulkarni,
 };

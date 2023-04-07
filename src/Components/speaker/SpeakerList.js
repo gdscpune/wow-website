@@ -4,20 +4,17 @@ import {
   ShreeBhagwat,
   PoojaBhaumik,
   NikitaGandhi,
-  InshaRamin,
-  MayankGupta,
-  RajanJha,
-  AyushShekhar,
+  YogeshKulkarni,
 } from "../../assets/img/speaker";
 const SpeakersList = [
-  { 
+  {
     name: "Nikita Gandhi",
     bio: "Community Manager at Google Developers, India",
     image: NikitaGandhi,
     frame: Blue,
     // linkedinUrl: "https://www.linkedin.com/in/harshakshit/",
     // twitterUrl: "https://mobile.twitter.com/explorash",
-   
+
   },
   {
     name: "Shree Bhagwat",
@@ -26,7 +23,7 @@ const SpeakersList = [
     frame: Red,
     // linkedinUrl: "https://www.linkedin.com/in/xprilion/",
     // twitterUrl: "https://twitter.com/xprilion",
-    
+
   },
   {
     name: "Vrijraj Singh",
@@ -44,7 +41,16 @@ const SpeakersList = [
     // linkedinUrl: "https://www.linkedin.com/in/aditlal/",
     // twitterUrl: "https://twitter.com/aditlal",
   },
-  
+  {
+    name: "Yogesh Kulkarni",
+    bio: "Google Developer Expert (ML)",
+    image: YogeshKulkarni,
+    frame: Green,
+    // linkedinUrl: "https://www.linkedin.com/in/aditlal/",
+    // twitterUrl: "https://twitter.com/aditlal",
+  },
+
+
 ];
 
 export { SpeakersList as SpeakerList };
