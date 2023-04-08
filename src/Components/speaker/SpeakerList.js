@@ -10,7 +10,7 @@ import {
 const SpeakersList = [
   {
     name: "Nikita Gandhi",
-    bio: "Community Manager at Google Developers, India",
+    bio: "Community Manager @Google Developers, India",
     image: NikitaGandhi,
     frame: Blue,
     // linkedinUrl: "https://www.linkedin.com/in/harshakshit/",
@@ -19,7 +19,7 @@ const SpeakersList = [
   },
   {
     name: "Shree Bhagwat",
-    bio: "Founder of Codeaamy",
+    bio: "Founder of Codeaamy, Organizer @FlutterPune, Sr. Flutter Developer @Abacus.co",
     image: ShreeBhagwat,
     frame: Red,
     // linkedinUrl: "https://www.linkedin.com/in/xprilion/",
@@ -28,7 +28,7 @@ const SpeakersList = [
   },
   {
     name: "Vrijraj Singh",
-    bio: "Tech Lead, AGPROP",
+    bio: "Tech Lead @AGPROP, GDE (Firebase and Web), Content Creator @TechFerment",
     image: VrijrajSingh,
     frame: Green,
     // linkedinUrl: "https://www.linkedin.com/in/pankajrai16/",
@@ -36,7 +36,7 @@ const SpeakersList = [
   },
   {
     name: "Pooja Bhaumik",
-    bio: "Developer Advocate at FlutterFLow",
+    bio: "Developer Advocate @FlutterFLow, GDE (Flutter)",
     image: PoojaBhaumik,
     frame: Yellow,
     // linkedinUrl: "https://www.linkedin.com/in/aditlal/",
@@ -44,7 +44,7 @@ const SpeakersList = [
   },
   {
     name: "Yogesh Kulkarni",
-    bio: "Google Developer Expert (ML)",
+    bio: "Google Developer Expert (ML), PhD in Geometric Modeling, Top Writer 3x (Medium)",
     image: YogeshKulkarni,
     frame: Green,
     // linkedinUrl: "https://www.linkedin.com/in/aditlal/",
@@ -52,7 +52,7 @@ const SpeakersList = [
   },
   {
     name: "Murari Ramuka",
-    bio: "Data Analytics Specialist, Google",
+    bio: "Data Analytics Specialist @Google, Mentor of Change @Atal Innovation Mission",
     image: MurariRamuka,
     frame: Blue,
     // linkedinUrl: "https://www.linkedin.com/in/aditlal/",
