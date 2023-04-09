@@ -4,6 +4,8 @@ import PoojaBhaumik from "./PoojaBhaumik.jpg";
 import NikitaGandhi from "./NikitaGandhi.jpeg";
 import YogeshKulkarni from "./YogeshKulkarni.png";
 import MurariRamuka from "./MurariRamuka.jpg"
+import SoumyaMalgode from "./SoumyaMalgode.jpeg";
+
 export {
   VrijrajSingh,
   ShreeBhagwat,
@@ -11,4 +13,5 @@ export {
   NikitaGandhi,
   YogeshKulkarni,
   MurariRamuka,
+  SoumyaMalgode
 };

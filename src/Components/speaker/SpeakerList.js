@@ -6,6 +6,7 @@ import {
   NikitaGandhi,
   YogeshKulkarni,
   MurariRamuka,
+  SoumyaMalgode,
 } from "../../assets/img/speaker";
 const SpeakersList = [
   {
@@ -46,7 +47,7 @@ const SpeakersList = [
     name: "Yogesh Kulkarni",
     bio: "Google Developer Expert (ML), PhD in Geometric Modeling, Top Writer 3x (Medium)",
     image: YogeshKulkarni,
-    frame: Green,
+    frame: Blue,
     // linkedinUrl: "https://www.linkedin.com/in/aditlal/",
     // twitterUrl: "https://twitter.com/aditlal",
   },
@@ -54,7 +55,15 @@ const SpeakersList = [
     name: "Murari Ramuka",
     bio: "Data Analytics Specialist @Google, Mentor of Change @Atal Innovation Mission",
     image: MurariRamuka,
-    frame: Blue,
+    frame: Red,
+    // linkedinUrl: "https://www.linkedin.com/in/aditlal/",
+    // twitterUrl: "https://twitter.com/aditlal",
+  },
+  {
+    name: "Soumya Malgode",
+    bio: "Software Engineer @Google, vGHC'21 Scholar, Snackdown'21 Finalist, Microsoft Engage'21",
+    image: SoumyaMalgode,
+    frame: Green,
     // linkedinUrl: "https://www.linkedin.com/in/aditlal/",
     // twitterUrl: "https://twitter.com/aditlal",
   },
