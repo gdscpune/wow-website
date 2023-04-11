@@ -1,29 +1,25 @@
 import {
-  googleCrowdsource,
-  googleDevelopers,
-  JetBrains,
-  Teamology,
+  flutterFlow,
+  orkes,
+  fibitpro,
 } from "../../assets/SponsorsLogo";
 
 export const Sponsors = [
   {
-    name: "Google Developers",
-    logo: googleDevelopers,
-    url: "https://developers.google.com/",
+    name: "FlutterFlow",
+    logo: flutterFlow,
+    url: "https://flutterflow.io/",
   },
   {
-    name: "Teamology",
-    logo: Teamology,
-    url: "https://theteamology.com/",
+    name: "Orkes",
+    logo: orkes,
+    url: "https://orkes.io/",
   },
   {
-    name: "JetBrains",
-    logo: JetBrains,
-    url: "https://www.jetbrains.com/",
+  name: "Fibitpro",
+  logo: fibitpro,
+  url: "https://fibitpro.com/",
+
   },
-  {
-    name: "Crowdsource",
-    logo: googleCrowdsource,
-    url: "https://crowdsource.google.com/",
-  },
+  
 ];

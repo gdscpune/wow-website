@@ -2,7 +2,6 @@ import React from "react";
 import Register from "./Components/Register/Register";
 import Faq from "./Pages/Faq/Faq";
 import Home from "./Pages/Home/Home";
-import SponsorsPage from "./Pages/Partners/SponsorsPage";
 import CommunityPage from "./Pages/Community_Partners_New/CommunityPage";
 import Speakers from "./Pages/Speakers/Speakers";
 import Team from "./Pages/Team/Team";
@@ -11,6 +10,10 @@ import WhyWoW from "./Pages/WhyWoW/WhyWoW";
 import CTAspeaker from "./Components/CTA-speaker/CTAspeaker";
 import CTAsponsor from "./Components/CTA-sponsor/CTAsponsor";
 import CTAearlybird from "./Components/CTA-EarlyBird/CTA-speaker/ctaearlybird";
+import SponsorsPage from "./Pages/Partners/SponsorsPage";
+import EducationSponsorsPage from "./Pages/Education_Partners/EducationSponsorsPage";
+import TicketSponsorsPage from "./Pages/Ticketing_Partners/TicketSponsorsPage";
+import SnackSponsorsPage from "./Pages/Snack_Partners/SnackSponsorsPage";
 
 export default function HomePage() {
   return (
@@ -22,7 +25,10 @@ export default function HomePage() {
       <WhyWoW />
       <Technologies />
       <Speakers />
-      {/* <SponsorsPage /> */}
+      <SponsorsPage />
+      <TicketSponsorsPage/>
+    <EducationSponsorsPage/>
+    <SnackSponsorsPage/>
       <CommunityPage />
       {/* <Team /> */}
       {/* <Register /> */}
