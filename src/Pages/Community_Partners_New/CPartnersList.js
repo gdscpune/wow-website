@@ -5,6 +5,7 @@ import {
   wtmpune,
   gdgcloudpune,
   Teamology,
+  techferment,
 } from "../../assets/SponsorsLogo";
 
 export const CPartners = [
@@ -27,5 +28,10 @@ export const CPartners = [
     name: "Flutter Pune",
     logo: flutterpune,
     // url: "https://crowdsource.google.com/",
+  },
+  {
+    name: "techferment",
+    logo: techferment,
+    url: "https://techferment.com/",
   },
 ];

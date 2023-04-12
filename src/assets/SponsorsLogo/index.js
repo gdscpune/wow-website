@@ -12,4 +12,5 @@ import orkes from "./OrkesBlack.png";
 import languify from "./Languify.png";
 import budhaniBros from "./BudhaniBros.png";
 import fibitpro from "./fibitpro.png";
-export { googleDevelopers, JetBrains, Teamology, googleCrowdsource, gdgpune, gdgcloudpune, flutterpune, wtmpune, flutterFlow, konfhub, orkes, languify, budhaniBros, fibitpro };
+import techferment from "./techferment.png";
+export { googleDevelopers, JetBrains, Teamology, googleCrowdsource, gdgpune, gdgcloudpune, flutterpune, wtmpune, flutterFlow, konfhub, orkes, languify, budhaniBros, fibitpro, techferment };
