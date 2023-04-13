@@ -81,7 +81,8 @@ export const Sechedule = [
     finished: "Starting a Tech Business as a Student Entrepreneur",
   },
   {
-    title: "SM Prizes + End keynote",
+    title: "GDSC WOW",
+    finished: "SM Prizes + End keynote",
     started: "05:30 - 05:45",
     // finished: "16:10 -16:30",
   },

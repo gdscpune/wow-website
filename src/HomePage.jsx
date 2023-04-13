@@ -21,17 +21,18 @@ export default function HomePage() {
     <>
       <Home />
       <CTAearlybird/>
-      <CTAsponsor />
+      {/* <CTAsponsor /> */}
       <CTAspeaker />
       <WhyWoW />
       <Technologies />
       <Speakers />
+      <Schedule />
       <SponsorsPage />
       <TicketSponsorsPage/>
     <EducationSponsorsPage/>
     <SnackSponsorsPage/>
       <CommunityPage />
-      <Schedule />
+      
       {/* <Team /> */}
       {/* <Register /> */}
       <Faq />

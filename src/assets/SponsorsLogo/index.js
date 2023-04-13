@@ -13,4 +13,5 @@ import languify from "./Languify.png";
 import budhaniBros from "./BudhaniBros.png";
 import fibitpro from "./fibitpro.png";
 import techferment from "./techferment.png";
-export { googleDevelopers, JetBrains, Teamology, googleCrowdsource, gdgpune, gdgcloudpune, flutterpune, wtmpune, flutterFlow, konfhub, orkes, languify, budhaniBros, fibitpro, techferment };
+import centralDao from "./CentralDao.png";
+export { googleDevelopers, JetBrains, Teamology, googleCrowdsource, gdgpune, gdgcloudpune, flutterpune, wtmpune, flutterFlow, konfhub, orkes, languify, budhaniBros, fibitpro, techferment, centralDao };
