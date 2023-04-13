@@ -38,6 +38,6 @@ export const CPartners = [
   {
     name: "Central Dao",
     logo: centralDao,
-    url: "https://techferment.com/",
+    // url: "https://techferment.com/",
   },
 ];
