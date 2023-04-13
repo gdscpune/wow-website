@@ -18,7 +18,10 @@
   {
     "title": "Partners",
     "url": "/#communitypartners"
-  },
+  },{
+    "title": "Schedule",
+    "url": "/#agenda"  },
+
   {
     "title": "FAQ",
     "url": "/#faq"
