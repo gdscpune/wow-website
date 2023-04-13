@@ -14,6 +14,7 @@ import SponsorsPage from "./Pages/Partners/SponsorsPage";
 import EducationSponsorsPage from "./Pages/Education_Partners/EducationSponsorsPage";
 import TicketSponsorsPage from "./Pages/Ticketing_Partners/TicketSponsorsPage";
 import SnackSponsorsPage from "./Pages/Snack_Partners/SnackSponsorsPage";
+// import Schedule from "./Pages/Schedule/Schedule";
 
 export default function HomePage() {
   return (
@@ -30,6 +31,7 @@ export default function HomePage() {
     <EducationSponsorsPage/>
     <SnackSponsorsPage/>
       <CommunityPage />
+      {/* <Schedule /> */}
       {/* <Team /> */}
       {/* <Register /> */}
       <Faq />
