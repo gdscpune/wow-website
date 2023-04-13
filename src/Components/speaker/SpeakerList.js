@@ -90,7 +90,7 @@ const SpeakersList = [
   },
   {
     name: "Udayendu Kar",
-    bio: "DevOps Practice LEad @Avaya, OneCloud Architect Team VMUG Pune Customer Leader",
+    bio: "DevOps Practice Lead @Avaya, OneCloud Architect Team VMUG Pune Customer Leader",
     image: UdayenduKar,
     frame: Green,
     // linkedinUrl: "https://www.linkedin.com/in/aditlal/",
