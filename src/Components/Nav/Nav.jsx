@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Menu from "./Menu.json";
 import WowGear from "../../assets/wow_gear.svg";
-import WowGearPune from "../../assets/wow_gear_pune.svg";
 import close from "../../assets/close.svg";
 import menu from "../../assets/menu.svg";
 import { HashLink as Link } from "react-router-hash-link";
@@ -18,11 +17,10 @@ export default function Nav() {
   return (
     <>
       <div
-        className={`w-full fixed top-0 transition duration-250 ease-in flex items-center justify-between p-2 border-b-[1px] z-50 ${
-          scroll
+        className={`w-full fixed top-0 transition duration-250 ease-in flex items-center justify-between p-2 border-b-[1px] z-50 ${scroll
             ? "bg-[rgba(192,192,192,0.3)] backdrop-blur-[10px]"
             : "bg-transparent backdrop-blur-0"
-        }`}
+          }`}
       >
         <a href="#home" className="text-inherit" rel="noreferrer">
           <div className="flex items-center justify-start">
@@ -47,9 +45,8 @@ export default function Nav() {
                 }}
                 to={item.url}
                 smooth
-                className={`min-w-full text-inherit whitespace-nowrap ${
-                  id === 0 ? "" : ""
-                } px-4 py-2 rounded-full hover:bg-secondary transition duration-300 ease-in-out hover:text-white`}
+                className={`min-w-full text-inherit whitespace-nowrap ${id === 0 ? "" : ""
+                  } px-4 py-2 rounded-full hover:bg-secondary transition duration-300 ease-in-out hover:text-white`}
               >
                 {item.title}
               </Link>
@@ -64,14 +61,12 @@ export default function Nav() {
         >
           <img src={toggle ? menu : close} className="w-8" />
           <div
-            className={`fixed right-1 top-[3rem] p-2 rounded bg-[rgba(0,0,0,0.6)] backdrop-blur-[4px] z-50 ${
-              toggle ? "hidden" : "flex"
-            }`}
+            className={`fixed right-1 top-[3rem] p-2 rounded bg-[rgba(0,0,0,0.6)] backdrop-blur-[4px] z-50 ${toggle ? "hidden" : "flex"
+              }`}
           >
             <ul
-              className={`list-none relative ${
-                toggle ? "hidden" : "flex"
-              } flex flex-col justify-center item-end`}
+              className={`list-none relative ${toggle ? "hidden" : "flex"
+                } flex flex-col justify-center item-end`}
             >
               {Menu.map((item, id) => (
                 <li className="mx-1 my-2" key={id}>
@@ -83,9 +78,8 @@ export default function Nav() {
                     }}
                     to={item.url}
                     smooth
-                    className={`min-w-full text-white whitespace-nowrap ${
-                      id === 0 ? "" : ""
-                    } px-4 py-2 rounded-full hover:bg-secondary hover:text-white`}
+                    className={`min-w-full text-white whitespace-nowrap ${id === 0 ? "" : ""
+                      } px-4 py-2 rounded-full hover:bg-secondary hover:text-white`}
                   >
                     {item.title}
                   </Link>
