@@ -7,7 +7,7 @@ import TeamCard from "./TeamCard";
 
 export default function Team() {
   return (
-    <div id='team' className='pt-12 '>
+    <div id='team' className='pt-24 pb-20'>
       <h2 className='text-5xl text-center mb-24'>Meet Our Team</h2>
       <div className='flex items-center w-screen mt-7'>
         <div className='container px-8 flex flex-wrap justify-center ml-auto mr-auto gap-8 items-start'>
@@ -30,7 +30,7 @@ export default function Team() {
               </div>
               <div className='mt-3 text-center cursor-default'>
                 <h3 className='text-xl'>{item.name}</h3>
-                <h4 className='text-gray-400'>{item.desc}</h4>
+                <h4 className='text-gray-500'>{item.desc}</h4>
               </div>
               <div className='flex flex-row justify-evenly w-full mt-2'>
                 {item.github ? (
