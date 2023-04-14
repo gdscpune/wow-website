@@ -9,9 +9,9 @@ export const Sponsors = [
     logo: languify,
     url: "https://www.languify.in/",
   },
-  {
-    name: "Builder.ai",
-    logo: builderai,
-    url: "https://www.builder.ai/",
-  },
+  // {
+  //   name: "Builder.ai",
+  //   logo: builderai,
+  //   url: "https://www.builder.ai/",
+  // },
 ];

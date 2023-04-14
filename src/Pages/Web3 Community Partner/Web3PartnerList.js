@@ -1,13 +1,11 @@
 import {
-  BuidlersTribe,
-  agprop,
-  budhaniBros, prosperaWeb, worqhat,
+builderai,
 } from "../../assets/SponsorsLogo";
 
 export const Sponsors = [
   {
     name: "Buidlers Tribe",
-    logo: BuidlersTribe,
+    logo: builderai,
     url: "https://buidlerstribe.com/",
   },
 ];

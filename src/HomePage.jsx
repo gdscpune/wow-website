@@ -21,6 +21,7 @@ import TicketSponsorsPage from "./Pages/Ticketing_Partners/TicketSponsorsPage";
 import SnackSponsorsPage from "./Pages/Snack_Partners/SnackSponsorsPage";
 import Schedule from "./Pages/Schedule/Schedule";
 import GeneralPartnerPage from "./Pages/GeneralPartner/GeneralPartnerPage";
+import Web3CommunityPartnersPage from "./Pages/Web3 Community Partner/Web3PartnersPage";
 
 export default function HomePage() {
   return (
@@ -34,16 +35,22 @@ export default function HomePage() {
       <Speakers />
       <Schedule />
       <SponsorsPage />
-      <AssociateSponsorsPage />
       <PoweredByPage />
+      <HiringPartnerPage />
+      <Web3CommunityPartnersPage/>
       <TicketSponsorsPage />
       <EducationSponsorsPage />
-      <StartupPartnerPage />
-      <HiringPartnerPage />
-      {/*<TradingPartnerPage />*/}
       <SnackSponsorsPage />
-      <GeneralPartnerPage />
       <CommunityPage />
+      {/* <AssociateSponsorsPage /> */}
+      
+      
+      {/* <StartupPartnerPage /> */}
+      
+      {/*<TradingPartnerPage />*/}
+      
+      {/* <GeneralPartnerPage /> */}
+      
 
       {/* <Team /> */}
       {/* <Register /> */}

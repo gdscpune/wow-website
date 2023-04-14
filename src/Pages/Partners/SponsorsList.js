@@ -10,5 +10,16 @@ export const Sponsors = [
     logo: flutterFlow,
     url: "https://flutterflow.io/",
   },
+  {
+    name: "Orkes",
+    logo: orkes,
+    url: "https://orkes.io/",
+  },
+  {
+    name: "Fibitpro",
+    logo: fibitpro,
+    url: "https://fibitpro.com/",
+
+  },
 
 ];

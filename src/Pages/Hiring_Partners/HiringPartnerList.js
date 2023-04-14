@@ -3,27 +3,23 @@ import {
   prospera,
   agropop,
   kanini,
+  worqhat,
 } from "../../assets/SponsorsLogo";
 
 export const HiringPartner = [
   {
-    name: "Fitbit Pro",
-    logo: fibitpro,
-    url: "https://fibitpro.com/",
-  },
-  {
-    name: "Agropop",
+    name: "Agprop",
     logo: agropop,
-    url: " ",
+    url: "https://agprop.in/",
   },
-  /*{
-    name: "Kanini",
-    logo: kanini,
-    url: "https://kanini.com/",
-  },*/
   {
-    name: "Prospera",
+    name: "Prospera Web",
     logo: prospera,
     url: "https://prosperaweb.com/",
+  },
+  {
+    name: "WorqHat",
+    logo: worqhat,
+    url: "https://www.worqhat.com/",
   },
 ];
