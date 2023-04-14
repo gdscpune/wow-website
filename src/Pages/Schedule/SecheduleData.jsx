@@ -28,16 +28,27 @@ export const Sechedule = [
     started: "10:30 - 11:00",
     finished: "Zero to ChatGPT",
   },
-  {
-    title: "GDSC WOW",
-    started: "11:00 - 11:30",
-    finished: "Activity (Quiz + SM Prizes)",
-  },
+  // {
+  //   title: "GDSC WOW",
+  //   started: "11:00 - 11:30",
+  //   finished: "Activity (Quiz + SM Prizes)",
+  // },
+  // {
+  //   title: "Karthik Padmanabhan, Soumya Malgonde, Shrihriday Bhagwat",
+  //   started: "11:30 - 11:45",
+  //   finished : "Placement and Internship Preparation",
+  //   // finished: "1:45",
+  // },
   {
     title: "Karthik Padmanabhan, Soumya Malgonde, Shrihriday Bhagwat",
-    started: "11:30 - 11:45",
+    started: "11:00 - 11:30",
     finished : "Placement and Internship Preparation",
     // finished: "1:45",
+  },
+  {
+    title: "GDSC WOW",
+    started: "11:30 - 11:45",
+    finished: "Activity",
   },
   {
     title: "Murari Ramuka",
@@ -82,7 +93,7 @@ export const Sechedule = [
   },
   {
     title: "GDSC WOW",
-    finished: "SM Prizes + End keynote",
+    finished: "End Keynote",
     started: "05:30 - 05:45",
     // finished: "16:10 -16:30",
   },
