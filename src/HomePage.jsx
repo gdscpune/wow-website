@@ -26,7 +26,7 @@ export default function HomePage() {
   return (
     <>
       <Home />
-      <CTAearlybird />
+      {/* <CTAearlybird /> */}
       {/* <CTAsponsor /> */}
       <CTAspeaker />
       <WhyWoW />
