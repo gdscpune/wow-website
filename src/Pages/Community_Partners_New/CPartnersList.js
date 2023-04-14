@@ -6,7 +6,7 @@ import {
   gdgcloudpune,
   Teamology,
   techferment,
-  centralDao,
+  centraldao,
 } from "../../assets/SponsorsLogo";
 
 export const CPartners = [
@@ -36,8 +36,8 @@ export const CPartners = [
     url: "https://techferment.com/",
   },
   {
-    name: "Central Dao",
-    logo: centralDao,
-    // url: "https://techferment.com/",
+    name: "Central DAO",
+    logo: centraldao,
+    //url: "https://techferment.com/",
   },
 ];
