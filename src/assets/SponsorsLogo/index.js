@@ -13,4 +13,11 @@ import languify from "./Languify.png";
 import budhaniBros from "./BudhaniBros.png";
 import fibitpro from "./fibitpro.png";
 import techferment from "./techferment.png";
-export { googleDevelopers, JetBrains, Teamology, googleCrowdsource, gdgpune, gdgcloudpune, flutterpune, wtmpune, flutterFlow, konfhub, orkes, languify, budhaniBros, fibitpro, techferment };
+import builderai from "./builderai.png";
+import prospera from "./prospera.png";
+import agropop from "./agropop.png";
+import kanini from "./kanini.png";
+import stockedge from "./stockedge.png";
+import centraldao from "./centraldao.png";
+import worqhat from "./worqhat.png"
+export { googleDevelopers, worqhat, centraldao, stockedge, kanini, agropop, prospera, builderai, JetBrains, Teamology, googleCrowdsource, gdgpune, gdgcloudpune, flutterpune, wtmpune, flutterFlow, konfhub, orkes, languify, budhaniBros, fibitpro, techferment };
