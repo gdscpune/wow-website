@@ -78,7 +78,7 @@ export const Sechedule = [
   {
     title: "Asit Sonawane",
     started: "05:00 - 05:15",
-    finished: "Starting a Tech Business as a Student Entrepreneur",
+    finished: "Maximize with Minimal: The Power of Bootstrap",
   },
   {
     title: "GDSC WOW",
