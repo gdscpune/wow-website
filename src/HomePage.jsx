@@ -19,6 +19,7 @@ import TradingPartnerPage from "./Pages/Trading_Partner/TradingPartnerPage";
 import EducationSponsorsPage from "./Pages/Education_Partners/EducationSponsorsPage";
 import TicketSponsorsPage from "./Pages/Ticketing_Partners/TicketSponsorsPage";
 import SnackSponsorsPage from "./Pages/Snack_Partners/SnackSponsorsPage";
+import Schedule from "./Pages/Schedule/Schedule";
 import GeneralPartnerPage from "./Pages/GeneralPartner/GeneralPartnerPage";
 
 export default function HomePage() {
@@ -26,11 +27,12 @@ export default function HomePage() {
     <>
       <Home />
       <CTAearlybird />
-      <CTAsponsor />
+      {/* <CTAsponsor /> */}
       <CTAspeaker />
       <WhyWoW />
       <Technologies />
       <Speakers />
+      <Schedule />
       <SponsorsPage />
       <AssociateSponsorsPage />
       <PoweredByPage />
@@ -42,6 +44,7 @@ export default function HomePage() {
       <SnackSponsorsPage />
       <GeneralPartnerPage />
       <CommunityPage />
+
       {/* <Team /> */}
       {/* <Register /> */}
       <Faq />
