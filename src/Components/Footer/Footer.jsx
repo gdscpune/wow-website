@@ -32,7 +32,7 @@ export default function Footer() {
             href="https://gdscpune.notion.site/Code-of-Conduct-Terms-Conditions-Community-Guidelines-48998a2cae33467e976bbbdac32b6df8"
             target="_blank"
           >
-            <span className="mr-2 lg:text-xl">Community Guidelines</span>
+            <span className="mr-2 lg:text-xl">Code of Conduct and T&Cs</span>
           </a>
         </div>
         <div className="lg:w-1/4 w-full flex lg:flex-row flex-col items-center">
