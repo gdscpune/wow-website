@@ -36,6 +36,34 @@ function Speaker(props) {
                 </div>
 
                 <div className="flex justify-center mt-5">
+                <button
+                    type="button"
+                    data-mdb-ripple="true"
+                    data-mdb-ripple-color="light"
+                    className="inline-block px-6 py-2.5 mb-2 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out"
+                  >
+                    <a href={item.linkedinUrl} target="_blank" rel="noreferrer">
+                      <img
+                        src={linkedin}
+                        alt="linkedin"
+                        className="w-6 hover:-translate-y-1 transition-all ease-in-out"
+                      />
+                    </a>
+                  </button>
+                  <button
+                    type="button"
+                    data-mdb-ripple="true"
+                    data-mdb-ripple-color="light"
+                    className="inline-block px-6 py-2.5 mb-2 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out"
+                  >
+                    <a href={item.twitterUrl} target="_blank" rel="noreferrer">
+                      <img
+                        src={twitter}
+                        alt="twitter"
+                        className="w-6 hover:-translate-y-1 transition-all ease-in-out"
+                      />
+                    </a>
+                  </button>
 
                 </div>
               </div>

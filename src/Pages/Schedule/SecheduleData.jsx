@@ -39,16 +39,17 @@ export const Sechedule = [
   //   finished : "Placement and Internship Preparation",
   //   // finished: "1:45",
   // },
-  {
-    title: "Karthik Padmanabhan, Soumya Malgonde, Shrihriday Bhagwat",
-    started: "11:00 - 11:30",
-    finished : "Placement and Internship Preparation",
-    // finished: "1:45",
-  },
+  
   {
     title: "GDSC WOW",
-    started: "11:30 - 11:45",
+    started: "11:00 - 11:30",
     finished: "Activity",
+  },
+  {
+    title: "Karthik Padmanabhan, Soumya Malgonde, Shrihriday Bhagwat",
+    started: "11:30 - 11:45",
+    finished : "Placement and Internship Preparation",
+    // finished: "1:45",
   },
   {
     title: "Murari Ramuka",
@@ -70,8 +71,13 @@ export const Sechedule = [
     started: "01:15 - 02:45",
   },
   {
+    title: "Poorvi Toshniwal",
+    started: "02:45 - 03:15",
+    finished: "Standup Comedy",
+  },
+  {
     title: "Atharva Pawar (Vadapav)",
-    started: "02:45 - 03:30",
+    started: "03:15 - 03:30",
     finished: "Standup Comedy",
   },
   {
