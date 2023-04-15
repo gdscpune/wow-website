@@ -71,7 +71,7 @@ export const Sechedule = [
     started: "01:15 - 02:45",
   },
   {
-    title: "Poorvi Toshniwal",
+    title: "Purvi Toshniwal",
     started: "02:45 - 03:15",
     finished: "Standup Comedy",
   },
