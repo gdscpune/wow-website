@@ -46,7 +46,7 @@ export const Sechedule = [
     finished: "Activity",
   },
   {
-    title: "Karthik Padmanabhan, Soumya Malgonde, Shrihriday Bhagwat",
+    title: "Karthik Padmanabhan, Soumya Malgonde, Shree Bhagwat",
     started: "11:30 - 11:45",
     finished : "Placement and Internship Preparation",
     // finished: "1:45",

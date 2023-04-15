@@ -36,8 +36,8 @@ const SpeakersList = [
     bio: "Founder of Codeaamy, Organizer @FlutterPune, Sr. Flutter Developer @Abacus.co",
     image: ShreeBhagwat,
     frame: Red,
-    // linkedinUrl: "https://www.linkedin.com/in/shrihriday",
-    // twitterUrl: "https://twitter.com/shreebhagwat94?t=cxBlKdwX-Q3gB1LktBcxRA&s=09",
+    linkedinUrl: "https://www.linkedin.com/in/shrihriday",
+    twitterUrl: "https://twitter.com/shreebhagwat94?t=cxBlKdwX-Q3gB1LktBcxRA&s=09",
 
   },
   {
@@ -45,16 +45,16 @@ const SpeakersList = [
     bio: "Tech Lead @AGPROP, GDE (Firebase and Web), Content Creator @TechFerment",
     image: VrijrajSingh,
     frame: Yellow,
-    // linkedinUrl: "https://www.linkedin.com/in/vrijrajsingh",
-    // twitterUrl: "https://twitter.com/SVrijraj?t=qT-dVw45Y8cmcNXVk02hBQ&s=09",
+    linkedinUrl: "https://www.linkedin.com/in/vrijrajsingh",
+    twitterUrl: "https://twitter.com/SVrijraj?t=qT-dVw45Y8cmcNXVk02hBQ&s=09",
   },
   {
     name: "Pooja Bhaumik",
     bio: "Developer Advocate @FlutterFLow, GDE (Flutter)",
     image: PoojaBhaumik,
     frame: Green,
-    // linkedinUrl: "https://www.linkedin.com/in/poojabhaumik",
-    // twitterUrl: "https://twitter.com/pooja_bhaumik?t=ysVCqyJA9x3LXM5BcmDI8A&s=09",
+    linkedinUrl: "https://www.linkedin.com/in/poojabhaumik",
+    twitterUrl: "https://twitter.com/pooja_bhaumik?t=ysVCqyJA9x3LXM5BcmDI8A&s=09",
   },
   {
     name: "Yogesh Kulkarni",
