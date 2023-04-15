@@ -1,6 +1,6 @@
 export const Sechedule = [
   {
-    title: "Registeration",
+    title: "Registration",
     started: "07:00 - 09:00",
     finished: "Get yourself registered for the Event!!",
   },
