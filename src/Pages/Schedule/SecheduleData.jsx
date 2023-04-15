@@ -70,16 +70,19 @@ export const Sechedule = [
     started: "01:15 - 02:45",
   },
   {
-    title: "Atharva Pawar",
+    title: "Atharva Pawar (Vadapav)",
     started: "02:45 - 03:30",
     finished: "Standup Comedy",
   },
-
-
   {
     title: "Faizan Akhtar",
     started: "03:30 - 4:00",
     finished: "All about AR",
+  },
+  {
+    title: "Shree Bhagwat",
+    started: "04:00 - 4:30",
+    finished: "Kickstart with Flutter",
   },
   {
     title: "Pooja Bhaumik",
